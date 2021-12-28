@@ -1,5 +1,5 @@
 ---
-date: 2021-06-09
+date: 2020-06-17
 tags: post
 name: JSNation
 url: https://portal.gitnation.org/events/jsnation-live-2020
