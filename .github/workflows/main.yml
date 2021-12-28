@@ -29,5 +29,5 @@ jobs:
           push-branch: 'main'
           commit-message: 'chore: updating README with new gigs'
           files: README.md
-          name: Liran Tal
-          email: liran.tal@gmail.com
+          name: Matteo Collina
+          email: matteo.collina@gmail.com
