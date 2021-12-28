@@ -42,9 +42,9 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2014-9-7 | WorkerConf | Full Stack Through Microservices |  | [Recording](https://www.youtube.com/watch?v=l4Oc3E1hvTQ) | IE | English |
+| 2014-9-7 | NodeConf.eu | Full Stack Through Microservices |  | [Recording](https://www.youtube.com/watch?v=l4Oc3E1hvTQ) | IE | English |
 
 
 
 
-<i>Updated on 2021-12-28T15:17:32.084Z</i>
+<i>Updated on 2021-12-28T15:18:51.187Z</i>
