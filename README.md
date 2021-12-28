@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-15-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-15-red?style=flat-square" alt="Total Conferences">    </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-23-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-23-red?style=flat-square" alt="Total Conferences">    </p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -7,7 +7,9 @@
 
 
  - [Year of 2019](#2019) - total events 6
- - [Year of 2018](#2018) - total events 3
+ - [Year of 2018](#2018) - total events 5
+ - [Year of 2017](#2017) - total events 2
+ - [Year of 2016](#2016) - total events 4
  - [Year of 2015](#2015) - total events 2
  - [Year of 2014](#2014) - total events 3
  - [Year of 2013](#2013) - total events 1
@@ -31,14 +33,42 @@
 # 2018
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2018-11-26 | Nodejsconf.it 2018 | The State of Node.js Core |  | [Recording](https://www.youtube.com/watch?v=IgLDtvo6kLM) | IT | English |
 | 2018-6-28 | WorkerConf | A New Way to Profile Node.js |  | [Recording](https://www.youtube.com/watch?v=DOIpzLJ1oN8) | AT | English |
 | 2018-6-28 | NodeConf.eu | GraphQL Accelerated |  | [Recording](https://www.youtube.com/watch?v=-V86BB9wrG8) | IE | English |
+| 2018-4-11 | Codemotion Rome 2018 | There is no such thing as Luck |  | [Recording](https://www.youtube.com/watch?v=SJjvafV7xlU) | IT | English |
 | 2018-1-25 | JSConf Asia 2018 | My Node.js Process is on Fire! |  | [Recording](https://www.youtube.com/watch?v=G9Vkpe55Gu8) | SG | English |
+
+
+# 2017
+
+
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2017-10-4 | Node.js Interactive 2017 | Take Your Http Server to Ludicrous Speed |  | [Recording](https://www.youtube.com/watch?v=gltzZjKYK1I) | CA | English |
+| 2017-10-4 | Node.js Interactive 2017 | The Node movement and how to play a part |  | [Recording](https://www.youtube.com/watch?v=OekXkuZ2u7o) | CA | English |
+
+
+# 2016
+
+
+![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2016-10-20 | NodeConf.eu | The Cost of Logging |  | [Recording](https://www.youtube.com/watch?v=zja-_IYNrFc) | IE | English |
+| 2016-9-15 | Node.js Interactive Europe 2016 | The Cost of Logging |  | [Recording](https://www.youtube.com/watch?v=Dnx2SPdcDSU) | NL | English |
+| 2016-7-26 | Node.js Summit 2016 | The Cost of Logging |  | [Recording](https://vimeo.com/180476148) | US | English |
+| 2016-3-18 | Codemotion Rome 2016 | We are not Object-Oriented Anymore |  | [Recording](https://www.youtube.com/watch?v=5uucS0LH-oM) | IE | English |
 
 
 # 2015
@@ -80,4 +110,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-28T15:52:39.641Z</i>
+<i>Updated on 2021-12-28T16:39:49.930Z</i>
