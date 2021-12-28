@@ -4,7 +4,7 @@ tags: post
 name: JSNation
 url: https://portal.gitnation.org/events/jsnation-live-2020
 type: conference
-title: 
+title: 1, 2, 3.. Fastify!
 slides_url:
 recording_url: https://portal.gitnation.org/contents/1-2-3-fastify
 city: 

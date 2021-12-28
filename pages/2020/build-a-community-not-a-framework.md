@@ -4,7 +4,7 @@ tags: post
 name: Open.js World 2020
 url: https://events.linuxfoundation.org/openjs-world/
 type: conference
-title: 
+title: Build a community, not a framework!
 slides_url:
 recording_url: https://www.youtube.com/watch?v=e0rdy7APH-o
 city: 
