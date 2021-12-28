@@ -1,8 +1,8 @@
 ---
 date: 2014-09-07
 tags: post
-name: WorkerConf
-url: 
+name: NodeConf.eu
+url: http://nodeconf.eu
 type: conference
 title: Full Stack Through Microservices
 slides_url:
