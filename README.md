@@ -6,9 +6,9 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 1
+ - [Year of 2019](#2019) - total events 1
 
-# 2021
+# 2019
 
 
 ![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
@@ -16,9 +16,9 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2021-7-21 | Cyber Week | Are We Forever Doomed By Software Supply Chain Risks? |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | IL | English |
+| 2019-3-6 | QCon London 2019 | A New Way to Profile Node.js - QCon 2019 |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | UK | English |
 
 
 
 
-<i>Updated on 2021-12-28T14:49:47.289Z</i>
+<i>Updated on 2021-12-28T15:00:37.774Z</i>
