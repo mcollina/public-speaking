@@ -4,7 +4,7 @@ tags: post
 name: NodeConf Remote
 url: https://nodeconfremote.com
 type: conference
-title: title: Can We Double HTTP Client Throughput?
+title: Can We Double HTTP Client Throughput?
 slides_url:
 recording_url: https://www.youtube.com/watch?v=D9xblqBAHO8
 city: 
