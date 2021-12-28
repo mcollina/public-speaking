@@ -4,7 +4,7 @@ tags: post
 name: Open.js World 2021
 url: https://openjsf.org/openjs-world-2021/
 type: conference
-title: 
+title: A fast introduction to Fastify
 slides_url:
 recording_url: https://www.youtube.com/watch?v=MOvLdfUhqrU
 city: 

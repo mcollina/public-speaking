@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-24-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-24-red?style=flat-square" alt="Total Conferences">    </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-28-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-28-red?style=flat-square" alt="Total Conferences">    </p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 1
+ - [Year of 2021](#2021) - total events 5
  - [Year of 2019](#2019) - total events 6
  - [Year of 2018](#2018) - total events 5
  - [Year of 2017](#2017) - total events 2
@@ -18,12 +18,16 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2021-11-2 | NodeConf Remote | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=D9xblqBAHO8) |  | English |
+| 2021-6-9 | JSNation | 1, 2, 3.. Fastify! |  | [Recording](https://portal.gitnation.org/contents/1-2-3-fastify) |  | English |
 | 2021-6-9 | JSNation | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=tr057sP4VBM) |  | English |
+| 2021-6-2 | Open.js World 2020 | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=e0rdy7APH-o) |  | English |
+| 2021-6-2 | Open.js World 2021 | A fast introduction to Fastify |  | [Recording](https://www.youtube.com/watch?v=MOvLdfUhqrU) |  | English |
 
 
 # 2019
@@ -122,4 +126,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-28T16:44:00.624Z</i>
+<i>Updated on 2021-12-28T17:05:42.994Z</i>
