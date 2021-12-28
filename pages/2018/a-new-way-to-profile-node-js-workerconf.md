@@ -1,15 +1,15 @@
 ---
-date: 2019-03-06
+date: 2018-06-28
 tags: post
-name: QCon London 2019
+name: WorkerConf
 url: https://qconlondon.com/schedule/london2019/list
 type: conference
 title: A New Way to Profile Node.js
 slides_url:
-recording_url: https://www.youtube.com/watch?v=ASv8188AkVk
-city: London
-country: United Kingdom
-country_code: UK
+recording_url: https://www.youtube.com/watch?v=DOIpzLJ1oN8
+city: Dornbirn
+country: Austria 
+country_code: AT
 language: English
 recognitions:
 image_header:
