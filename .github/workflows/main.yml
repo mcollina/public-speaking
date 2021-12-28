@@ -1,0 +1,33 @@
+name: Create gigs
+
+on:
+  push:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Create gigs 
+        run: npx @gigsboat/cli
+
+      - name: Push gigs into repository README
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'main'
+          commit-message: 'chore: updating README with new gigs'
+          files: README.md
+          name: Liran Tal
+          email: liran.tal@gmail.com
