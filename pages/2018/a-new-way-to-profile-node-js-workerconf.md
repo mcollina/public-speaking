@@ -2,7 +2,7 @@
 date: 2018-06-28
 tags: post
 name: WorkerConf
-url: https://qconlondon.com/schedule/london2019/list
+url: https://www.alpine-conferences.com/
 type: conference
 title: A New Way to Profile Node.js
 slides_url:
