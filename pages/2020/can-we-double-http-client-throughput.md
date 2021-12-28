@@ -1,9 +1,10 @@
 ---
 date: 2021-11-02
 tags: post
-url: 
+name: NodeConf Remote
+url: https://nodeconfremote.com
 type: conference
-title: NodeConf Remote 2020
+title: title: Can We Double HTTP Client Throughput?
 slides_url:
 recording_url: https://www.youtube.com/watch?v=D9xblqBAHO8
 city: 
