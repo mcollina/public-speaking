@@ -6,7 +6,8 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 5
+ - [Year of 2021](#2021) - total events 2
+ - [Year of 2020](#2020) - total events 3
  - [Year of 2019](#2019) - total events 6
  - [Year of 2018](#2018) - total events 5
  - [Year of 2017](#2017) - total events 2
@@ -18,16 +19,26 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2021-11-2 | NodeConf Remote | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=D9xblqBAHO8) |  | English |
-| 2021-6-9 | JSNation | 1, 2, 3.. Fastify! |  | [Recording](https://portal.gitnation.org/contents/1-2-3-fastify) |  | English |
 | 2021-6-9 | JSNation | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=tr057sP4VBM) |  | English |
-| 2021-6-2 | Open.js World 2020 | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=e0rdy7APH-o) |  | English |
 | 2021-6-2 | Open.js World 2021 | A fast introduction to Fastify |  | [Recording](https://www.youtube.com/watch?v=MOvLdfUhqrU) |  | English |
+
+
+# 2020
+
+
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2020-11-2 | NodeConf Remote | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=D9xblqBAHO8) |  | English |
+| 2020-6-22 | Open.js World 2020 | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=e0rdy7APH-o) |  | English |
+| 2020-6-17 | JSNation | 1, 2, 3.. Fastify! |  | [Recording](https://portal.gitnation.org/contents/1-2-3-fastify) |  | English |
 
 
 # 2019
@@ -126,4 +137,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-28T17:06:27.756Z</i>
+<i>Updated on 2021-12-28T17:10:31.436Z</i>
