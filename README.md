@@ -28,7 +28,7 @@
 | 2021-11-16 | ITClass | GraphQL Caching Demystified |  | [Recording](https://www.youtube.com/watch?v=uA1exBqZ9i0) |  | English |
 | 2021-11-15 | JSConf India | Multithreaded Logging with Pino |  |  |  | English |
 | 2021-11-15 | Node.TLV | Multithreaded Logging with Pino |  |  | IL | English |
-| 2021-10-18 | NodeConf Remote | Multithreaded Logging with Pino |  |  |  | English |
+| 2021-10-18 | NodeConf Remote | Multithreaded Logging with Pino |  | [Recording](https://www.youtube.com/watch?v=vETUVN-KEgc) |  | English |
 | 2021-10-7 | JS Party | Fastify served with a refreshing Pino 🍷 |  | [Recording](https://changelog.com/jsparty/197) |  | English |
 | 2021-7-29 | OpenHive.js | Charlie Robbins on JavaScript, TypeScript and the history and future of Node.js |  | [Recording](https://anchor.fm/openhivejs/episodes/Charlie-Robbins-on-JavaScript--TypeScript-and-the-history-and-future-of-Node-js-e156dab) |  | English |
 | 2021-7-29 | OpenHive.js | Gil Tayar on ECMAScript modules (ESM) with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Gil-Tayar-on-ECMAScript-modules-ESM-with-JavaScript-e156djb) |  | English |
@@ -183,4 +183,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T14:22:02.425Z</i>
+<i>Updated on 2021-12-29T14:23:28.984Z</i>
