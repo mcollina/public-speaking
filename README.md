@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-79-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-43-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-80-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-44-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -14,7 +14,7 @@
  - [Year of 2016](#2016) - total events 4
  - [Year of 2015](#2015) - total events 2
  - [Year of 2014](#2014) - total events 4
- - [Year of 2013](#2013) - total events 1
+ - [Year of 2013](#2013) - total events 2
 
 # 2021
 
@@ -177,15 +177,16 @@
 # 2013
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2013-9-9 | NodeConf.eu | MQTT and Node.js, Messaging in the Internet of Things |  | [Recording](https://www.youtube.com/watch?v=WE7GVIFRV7Q) | IE | English |
+| 2013-8-9 | Distill by EngineYard | Making things that work with us | [Slides](https://www.slideshare.net/matteocollina/making-things-that-work-with-us-distill) |  | US | English |
 
 
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T15:19:08.801Z</i>
+<i>Updated on 2021-12-29T16:43:25.766Z</i>
