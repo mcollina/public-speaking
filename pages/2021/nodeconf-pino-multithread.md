@@ -6,7 +6,7 @@ url: https://nodeconfremote.com
 type: conference
 title: Multithreaded Logging with Pino
 slides_url:
-recording_url: 
+recording_url: https://www.youtube.com/watch?v=vETUVN-KEgc
 city: 
 country: 
 country_code: 
