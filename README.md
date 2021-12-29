@@ -30,7 +30,6 @@
 | 2021-11-15 | Node.TLV | Multithreaded Logging with Pino |  |  | IL | English |
 | 2021-10-18 | NodeConf Remote | Multithreaded Logging with Pino |  | [Recording](https://www.youtube.com/watch?v=vETUVN-KEgc) |  | English |
 | 2021-10-7 | JS Party | Fastify served with a refreshing Pino 🍷 |  | [Recording](https://changelog.com/jsparty/197) |  | English |
-| 2021-7-29 | The Defiance_ Ventures Podcast | Interview with Matteo Collina |  | [Recording](https://anchor.fm/defiance-ventures/episodes/72---Matteo-Collina--NearForm--Creator-of-Fastify--and-Node-js-Steering-Committee-Member-e111pon) |  | English |
 | 2021-7-29 | OpenHive.js | Charlie Robbins on JavaScript, TypeScript and the history and future of Node.js |  | [Recording](https://anchor.fm/openhivejs/episodes/Charlie-Robbins-on-JavaScript--TypeScript-and-the-history-and-future-of-Node-js-e156dab) |  | English |
 | 2021-7-29 | OpenHive.js | Gil Tayar on ECMAScript modules (ESM) with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Gil-Tayar-on-ECMAScript-modules-ESM-with-JavaScript-e156djb) |  | English |
 | 2021-7-9 | OpenHive.js | Yoni Goldberg on Integration Tests with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Yoni-Goldberg-on-Integration-Tests-with-JavaScript-e144ash) |  | English |
@@ -39,6 +38,7 @@
 | 2021-6-9 | JSNation | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=tr057sP4VBM) |  | English |
 | 2021-6-2 | Open.js World 2021 | A fast introduction to Fastify |  | [Recording](https://www.youtube.com/watch?v=MOvLdfUhqrU) |  | English |
 | 2021-5-21 | RedisConf | Solving Head-Of-Line blocking with auto pipelining |  | [Recording](https://www.youtube.com/watch?v=0L0ER4pZbX4) |  | English |
+| 2021-5-17 | The Defiance_ Ventures Podcast | Interview with Matteo Collina |  | [Recording](https://anchor.fm/defiance-ventures/episodes/72---Matteo-Collina--NearForm--Creator-of-Fastify--and-Node-js-Steering-Committee-Member-e111pon) |  | English |
 | 2021-5-12 | OpenHive.js | Danielle Adams on Cloud Native Buildpacks |  | [Recording](https://anchor.fm/openhivejs/episodes/Danielle-Adams-on-Cloud-Native-Buildpacks-e10of7p) |  | English |
 | 2021-5-12 | OpenHive.js | Rob Palmer on Server Side Javascript and TypeScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Rob-Palmer-on-Server-Side-Javascript-and-TypeScript-e12gu0a) |  | English |
 | 2021-5-11 | NearForm Decoded | The promise of DevOps |  | [Recording](https://www.youtube.com/watch?v=zR_Xn32HXuc) |  | English |
@@ -188,4 +188,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T15:00:24.149Z</i>
+<i>Updated on 2021-12-29T15:19:08.801Z</i>
