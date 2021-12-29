@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-72-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-42-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-74-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-43-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -6,8 +6,8 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 26
- - [Year of 2020](#2020) - total events 18
+ - [Year of 2021](#2021) - total events 27
+ - [Year of 2020](#2020) - total events 19
  - [Year of 2019](#2019) - total events 8
  - [Year of 2018](#2018) - total events 6
  - [Year of 2017](#2017) - total events 3
@@ -19,12 +19,13 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-26-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-27-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-12-9 | GraphQL Galaxy | GraphQL Caching Demystified |  | [Recording](https://portal.gitnation.org/contents/graphql-caching-demystified) |  | English |
+| 2021-11-16 | ITClass | GraphQL Caching Demystified |  | [Recording](https://www.youtube.com/watch?v=uA1exBqZ9i0) |  | English |
 | 2021-11-15 | JSConf India | Multithreaded Logging with Pino |  |  |  | English |
 | 2021-11-15 | Node.TLV | Multithreaded Logging with Pino |  |  | IL | English |
 | 2021-10-18 | NodeConf Remote | Multithreaded Logging with Pino |  |  |  | English |
@@ -55,7 +56,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-18-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -66,6 +67,7 @@
 | 2020-10-21 | SnykCon | Why there are no incentives for security in Open Source | [Slides](https://docs.google.com/presentation/d/1PO7gBvs2PB4SP7IcoWS1tr70wBM2ZrKdwWYnpqq5bUo/edit) | [Recording](https://www.youtube.com/watch?v=7eDcZz-6eQg) |  | English |
 | 2020-10-7 | OpenHive.js | Alessandro Polidori on Open Source and VoIP |  | [Recording](https://anchor.fm/openhivejs/episodes/Alessandro-Polidori-on-Open-Source-and-VoIP-ekno7f) |  | English |
 | 2020-10-7 | OpenHive.js | Anthony Aragues on Data Visualisation |  | [Recording](https://anchor.fm/openhivejs/episodes/Anthony-Aragues-on-Data-Visualisation-emau0n) |  | English |
+| 2020-10-2 | Nodejsday | GraphQL Accelerated |  | [Recording](https://www.youtube.com/watch?v=CQ1KgfVcL2E) |  | English |
 | 2020-8-12 | OpenHive.js | Kenigbolo Meya Stephen on Documentation |  | [Recording](https://anchor.fm/openhivejs/episodes/Kenigbolo-Meya-Stephen-on-Documentation-ejc6a7) |  | English |
 | 2020-8-12 | OpenHive.js | NearForm on Building Contact Tracing Apps |  | [Recording](https://anchor.fm/openhivejs/episodes/NearForm-on-Building-Contact-Tracing-Apps-ei1ujq) |  | English |
 | 2020-8-11 | Real Talk JavaScript | Expressway to Fastify with Matteo Collina |  | [Recording](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina) |  | English |
@@ -181,4 +183,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T14:14:51.630Z</i>
+<i>Updated on 2021-12-29T14:22:02.425Z</i>
