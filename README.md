@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-74-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-43-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-76-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-43-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -7,7 +7,7 @@
 
 
  - [Year of 2021](#2021) - total events 27
- - [Year of 2020](#2020) - total events 19
+ - [Year of 2020](#2020) - total events 21
  - [Year of 2019](#2019) - total events 8
  - [Year of 2018](#2018) - total events 6
  - [Year of 2017](#2017) - total events 3
@@ -56,7 +56,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-21-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -75,6 +75,8 @@
 | 2020-6-22 | JSDay | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=QO_LLYx3mAQ) |  | English |
 | 2020-6-22 | Open.js World 2020 | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=e0rdy7APH-o) |  | English |
 | 2020-6-17 | JSNation | 1, 2, 3.. Fastify! |  | [Recording](https://portal.gitnation.org/contents/1-2-3-fastify) |  | English |
+| 2020-6-11 | JSNation | Broken Promises |  |  |  | English |
+| 2020-6-11 | OpenJS World | Broken Promises |  |  |  | English |
 | 2020-6-8 | OpenHive.js | Laurie Barth on Maintaining Gatsby |  | [Recording](https://anchor.fm/openhivejs/episodes/Laurie-Barth-on-Maintaining-Gatsby-ef6p8i) |  | English |
 | 2020-6-8 | OpenHive.js | Liran Tal on Empowering Open Source |  | [Recording](https://anchor.fm/openhivejs/episodes/Liran-Tal-on-Empowering-Open-Source-ef6lt7) |  | English |
 | 2020-6-8 | OpenHive.js | Philipp Dunkel on Temporal |  | [Recording](https://anchor.fm/openhivejs/episodes/Philipp-Dunkel-on-Temporal-ef562f) |  | English |
@@ -183,4 +185,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T14:23:28.984Z</i>
+<i>Updated on 2021-12-29T14:30:09.867Z</i>
