@@ -1,5 +1,5 @@
 ---
-date: 2019-11-14
+date: 2020-08-11
 tags: post
 name: Real Talk JavaScript
 url: https://webrush.io/
