@@ -7,8 +7,8 @@
 
 
  - [Year of 2021](#2021) - total events 12
- - [Year of 2020](#2020) - total events 15
- - [Year of 2019](#2019) - total events 9
+ - [Year of 2020](#2020) - total events 16
+ - [Year of 2019](#2019) - total events 8
  - [Year of 2018](#2018) - total events 6
  - [Year of 2017](#2017) - total events 3
  - [Year of 2016](#2016) - total events 4
@@ -41,7 +41,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-9-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -52,6 +52,7 @@
 | 2020-10-7 | OpenHive.js | Anthony Aragues on Data Visualisation |  | [Recording](https://anchor.fm/openhivejs/episodes/Anthony-Aragues-on-Data-Visualisation-emau0n) |  | English |
 | 2020-8-12 | OpenHive.js | Kenigbolo Meya Stephen on Documentation |  | [Recording](https://anchor.fm/openhivejs/episodes/Kenigbolo-Meya-Stephen-on-Documentation-ejc6a7) |  | English |
 | 2020-8-12 | OpenHive.js | NearForm on Building Contact Tracing Apps |  | [Recording](https://anchor.fm/openhivejs/episodes/NearForm-on-Building-Contact-Tracing-Apps-ei1ujq) |  | English |
+| 2020-8-11 | Real Talk JavaScript | Expressway to Fastify with Matteo Collina |  | [Recording](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina) |  | English |
 | 2020-7-6 | OpenHive.js | Ramón Guijarro on Modern Web APIs |  | [Recording](https://anchor.fm/openhivejs/episodes/Ramn-Guijarro-on-Modern-Web-APIs-egcfq3) |  |  |
 | 2020-6-22 | JSDay | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=QO_LLYx3mAQ) |  | English |
 | 2020-6-22 | Open.js World 2020 | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=e0rdy7APH-o) |  | English |
@@ -66,7 +67,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -76,7 +77,6 @@
 | 2019-12-11 | Node.js Interactive 2019 | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=dEFdt_6fW-0) | CA | English |
 | 2019-11-14 | JS Party | You're probably using streams |  | [Recording](https://changelog.com/jsparty/103) |  | English |
 | 2019-11-14 | Real Talk JavaScript | Node.js Optimization and Performance - Matteo Collina |  | [Recording](https://webrush.io/episodes/56c29daf-a173683b) |  | English |
-| 2019-11-14 | Real Talk JavaScript | Expressway to Fastify with Matteo Collina |  | [Recording](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina) |  | English |
 | 2019-6-27 | WorkerConf | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=bD8OrK50SuQ) | NL | English |
 | 2019-3-6 | QCon London 2019 | A New Way to Profile Node.js |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | UK | English |
 | 2019-2-7 | JSConf Hawaii 2019 | Bubble Up Your Node.js I/O - JSConf Hawaii 2019 |  | [Recording](https://www.youtube.com/watch?v=rYqh5LYfw0Y) | US | English |
@@ -165,4 +165,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T10:45:01.332Z</i>
+<i>Updated on 2021-12-29T10:49:48.500Z</i>
