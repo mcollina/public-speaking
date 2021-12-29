@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-90-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-53-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-91-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-54-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -8,7 +8,7 @@
 
  - [Year of 2021](#2021) - total events 28
  - [Year of 2020](#2020) - total events 23
- - [Year of 2019](#2019) - total events 9
+ - [Year of 2019](#2019) - total events 10
  - [Year of 2018](#2018) - total events 8
  - [Year of 2017](#2017) - total events 5
  - [Year of 2016](#2016) - total events 5
@@ -90,7 +90,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-10-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -102,6 +102,7 @@
 | 2019-11-14 | Real Talk JavaScript | Node.js Optimization and Performance - Matteo Collina |  | [Recording](https://webrush.io/episodes/56c29daf-a173683b) |  | English |
 | 2019-6-27 | WorkerConf | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=bD8OrK50SuQ) | NL | English |
 | 2019-5-12 | FullStack NYC | Take Your Http Server to Ludicrous Speed |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | US | English |
+| 2019-5-6 | Microsoft Build | Build Scalable APIs with GraphQL |  |  | US | English |
 | 2019-3-6 | QCon London 2019 | A New Way to Profile Node.js |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | UK | English |
 | 2019-2-7 | JSConf Hawaii 2019 | Bubble Up Your Node.js I/O - JSConf Hawaii 2019 |  | [Recording](https://www.youtube.com/watch?v=rYqh5LYfw0Y) | US | English |
 
@@ -199,4 +200,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T18:06:57.205Z</i>
+<i>Updated on 2021-12-29T18:20:17.280Z</i>
