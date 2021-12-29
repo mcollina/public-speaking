@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-47-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-29-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-18-yellow?style=flat-square" alt="Total Podcasts">   </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-51-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-29-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-22-yellow?style=flat-square" alt="Total Podcasts">   </p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -6,9 +6,9 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 11
+ - [Year of 2021](#2021) - total events 12
  - [Year of 2020](#2020) - total events 13
- - [Year of 2019](#2019) - total events 6
+ - [Year of 2019](#2019) - total events 9
  - [Year of 2018](#2018) - total events 5
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 4
@@ -19,11 +19,12 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-11-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-9-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-12-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2021-10-7 | JS Party | Fastify served with a refreshing Pino 🍷 |  | [Recording](https://changelog.com/jsparty/197) |  | English |
 | 2021-7-29 | OpenHive.js | Charlie Robbins on JavaScript, TypeScript and the history and future of Node.js |  | [Recording](https://anchor.fm/openhivejs/episodes/Charlie-Robbins-on-JavaScript--TypeScript-and-the-history-and-future-of-Node-js-e156dab) |  | English |
 | 2021-7-29 | OpenHive.js | Gil Tayar on ECMAScript modules (ESM) with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Gil-Tayar-on-ECMAScript-modules-ESM-with-JavaScript-e156djb) |  | English |
 | 2021-7-9 | OpenHive.js | Yoni Goldberg on Integration Tests with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Yoni-Goldberg-on-Integration-Tests-with-JavaScript-e144ash) |  | English |
@@ -63,7 +64,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -71,6 +72,9 @@
 | 2019-12-11 | Node.js Interactive 2019 | GraphQL Simplified |  | [Recording](https://www.youtube.com/watch?v=E7KDpZYO_1o) | CA | English |
 | 2019-12-11 | Node.js Conference Netherlands 2019 | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=RVcd1c-sTjU) | NL | English |
 | 2019-12-11 | Node.js Interactive 2019 | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=dEFdt_6fW-0) | CA | English |
+| 2019-11-14 | JS Party | You're probably using streams |  | [Recording](https://changelog.com/jsparty/103) |  | English |
+| 2019-11-14 | Real Talk JavaScript | Node.js Optimization and Performance - Matteo Collina |  | [Recording](https://webrush.io/episodes/56c29daf-a173683b) |  | English |
+| 2019-11-14 | Real Talk JavaScript | Expressway to Fastify with Matteo Collina |  | [Recording](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina) |  | English |
 | 2019-6-27 | WorkerConf | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=bD8OrK50SuQ) | NL | English |
 | 2019-3-6 | QCon London 2019 | A New Way to Profile Node.js |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | UK | English |
 | 2019-2-7 | JSConf Hawaii 2019 | Bubble Up Your Node.js I/O - JSConf Hawaii 2019 |  | [Recording](https://www.youtube.com/watch?v=rYqh5LYfw0Y) | US | English |
@@ -156,4 +160,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T09:44:06.634Z</i>
+<i>Updated on 2021-12-29T09:54:06.970Z</i>
