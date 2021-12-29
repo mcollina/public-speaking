@@ -1,5 +1,5 @@
 ---
-date: 2021-07-29
+date: 2021-05-17
 tags: post
 name: The Defiance_ Ventures Podcast
 url: https://anchor.fm/defiance-ventures
