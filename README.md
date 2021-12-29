@@ -24,17 +24,17 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2021-7-29 | OpenHive.js | Charlie Robbins on JavaScript, TypeScript and the history and future of Node.js |  | [Recording](https://anchor.fm/openhivejs/episodes/Charlie-Robbins-on-JavaScript--TypeScript-and-the-history-and-future-of-Node-js-e156dab) |  |  |
-| 2021-7-29 | OpenHive.js | Gil Tayar on ECMAScript modules (ESM) with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Gil-Tayar-on-ECMAScript-modules-ESM-with-JavaScript-e156djb) |  |  |
-| 2021-7-9 | OpenHive.js | Yoni Goldberg on Integration Tests with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Yoni-Goldberg-on-Integration-Tests-with-JavaScript-e144ash) |  |  |
+| 2021-7-29 | OpenHive.js | Charlie Robbins on JavaScript, TypeScript and the history and future of Node.js |  | [Recording](https://anchor.fm/openhivejs/episodes/Charlie-Robbins-on-JavaScript--TypeScript-and-the-history-and-future-of-Node-js-e156dab) |  | English |
+| 2021-7-29 | OpenHive.js | Gil Tayar on ECMAScript modules (ESM) with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Gil-Tayar-on-ECMAScript-modules-ESM-with-JavaScript-e156djb) |  | English |
+| 2021-7-9 | OpenHive.js | Yoni Goldberg on Integration Tests with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Yoni-Goldberg-on-Integration-Tests-with-JavaScript-e144ash) |  | English |
 | 2021-6-9 | JSNation | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=tr057sP4VBM) |  | English |
 | 2021-6-2 | Open.js World 2021 | A fast introduction to Fastify |  | [Recording](https://www.youtube.com/watch?v=MOvLdfUhqrU) |  | English |
-| 2021-5-12 | OpenHive.js | Danielle Adams on Cloud Native Buildpacks |  | [Recording](https://anchor.fm/openhivejs/episodes/Danielle-Adams-on-Cloud-Native-Buildpacks-e10of7p) |  |  |
-| 2021-5-12 | OpenHive.js | Rob Palmer on Server Side Javascript and TypeScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Rob-Palmer-on-Server-Side-Javascript-and-TypeScript-e12gu0a) |  |  |
-| 2021-4-7 | OpenHive.js | Kent C. Dodds on JavaScript Training |  | [Recording](https://anchor.fm/openhivejs/episodes/Kent-C--Dodds-on-JavaScript-Training-eudrdn) |  |  |
-| 2021-2-12 | OpenHive.js | Liz Parody on Building Communities |  | [Recording](https://anchor.fm/openhivejs/episodes/Liz-Parody-on-Building-Communities-es6o5e) |  |  |
-| 2021-2-12 | OpenHive.js | The Next 25 Years of JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/The-Next-25-Years-of-JavaScript-eqahde) |  |  |
-| 2021-1-6 | OpenHive.js | Mikeal Rogers on Open Source |  | [Recording](https://anchor.fm/openhivejs/episodes/Mikeal-Rogers-on-the-Open-Source-Model-eokfbo) |  |  |
+| 2021-5-12 | OpenHive.js | Danielle Adams on Cloud Native Buildpacks |  | [Recording](https://anchor.fm/openhivejs/episodes/Danielle-Adams-on-Cloud-Native-Buildpacks-e10of7p) |  | English |
+| 2021-5-12 | OpenHive.js | Rob Palmer on Server Side Javascript and TypeScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Rob-Palmer-on-Server-Side-Javascript-and-TypeScript-e12gu0a) |  | English |
+| 2021-4-7 | OpenHive.js | Kent C. Dodds on JavaScript Training |  | [Recording](https://anchor.fm/openhivejs/episodes/Kent-C--Dodds-on-JavaScript-Training-eudrdn) |  | English |
+| 2021-2-12 | OpenHive.js | Liz Parody on Building Communities |  | [Recording](https://anchor.fm/openhivejs/episodes/Liz-Parody-on-Building-Communities-es6o5e) |  | English |
+| 2021-2-12 | OpenHive.js | The Next 25 Years of JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/The-Next-25-Years-of-JavaScript-eqahde) |  | English |
+| 2021-1-6 | OpenHive.js | Mikeal Rogers on Open Source |  | [Recording](https://anchor.fm/openhivejs/episodes/Mikeal-Rogers-on-the-Open-Source-Model-eokfbo) |  | English |
 
 
 # 2020
@@ -45,18 +45,18 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2020-12-9 | OpenHive.js | Mikeal Rogers on Decentralised Databases |  | [Recording](https://anchor.fm/openhivejs/episodes/Mikeal-Rogers-on-Decentralised-Databases-eniueg) |  |  |
+| 2020-12-9 | OpenHive.js | Mikeal Rogers on Decentralised Databases |  | [Recording](https://anchor.fm/openhivejs/episodes/Mikeal-Rogers-on-Decentralised-Databases-eniueg) |  | English |
 | 2020-11-2 | NodeConf Remote | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=D9xblqBAHO8) |  | English |
-| 2020-10-7 | OpenHive.js | Alessandro Polidori on Open Source and VoIP |  | [Recording](https://anchor.fm/openhivejs/episodes/Alessandro-Polidori-on-Open-Source-and-VoIP-ekno7f) |  |  |
-| 2020-10-7 | OpenHive.js | Anthony Aragues on Data Visualisation |  | [Recording](https://anchor.fm/openhivejs/episodes/Anthony-Aragues-on-Data-Visualisation-emau0n) |  |  |
-| 2020-8-12 | OpenHive.js | Kenigbolo Meya Stephen on Documentation |  | [Recording](https://anchor.fm/openhivejs/episodes/Kenigbolo-Meya-Stephen-on-Documentation-ejc6a7) |  |  |
-| 2020-8-12 | OpenHive.js | NearForm on Building Contact Tracing Apps |  | [Recording](https://anchor.fm/openhivejs/episodes/NearForm-on-Building-Contact-Tracing-Apps-ei1ujq) |  |  |
+| 2020-10-7 | OpenHive.js | Alessandro Polidori on Open Source and VoIP |  | [Recording](https://anchor.fm/openhivejs/episodes/Alessandro-Polidori-on-Open-Source-and-VoIP-ekno7f) |  | English |
+| 2020-10-7 | OpenHive.js | Anthony Aragues on Data Visualisation |  | [Recording](https://anchor.fm/openhivejs/episodes/Anthony-Aragues-on-Data-Visualisation-emau0n) |  | English |
+| 2020-8-12 | OpenHive.js | Kenigbolo Meya Stephen on Documentation |  | [Recording](https://anchor.fm/openhivejs/episodes/Kenigbolo-Meya-Stephen-on-Documentation-ejc6a7) |  | English |
+| 2020-8-12 | OpenHive.js | NearForm on Building Contact Tracing Apps |  | [Recording](https://anchor.fm/openhivejs/episodes/NearForm-on-Building-Contact-Tracing-Apps-ei1ujq) |  | English |
 | 2020-7-6 | OpenHive.js | Ramón Guijarro on Modern Web APIs |  | [Recording](https://anchor.fm/openhivejs/episodes/Ramn-Guijarro-on-Modern-Web-APIs-egcfq3) |  |  |
 | 2020-6-22 | Open.js World 2020 | Build a community, not a framework! |  | [Recording](https://www.youtube.com/watch?v=e0rdy7APH-o) |  | English |
 | 2020-6-17 | JSNation | 1, 2, 3.. Fastify! |  | [Recording](https://portal.gitnation.org/contents/1-2-3-fastify) |  | English |
-| 2020-6-8 | OpenHive.js | Laurie Barth on Maintaining Gatsby |  | [Recording](https://anchor.fm/openhivejs/episodes/Laurie-Barth-on-Maintaining-Gatsby-ef6p8i) |  |  |
-| 2020-6-8 | OpenHive.js | Liran Tal on Empowering Open Source |  | [Recording](https://anchor.fm/openhivejs/episodes/Liran-Tal-on-Empowering-Open-Source-ef6lt7) |  |  |
-| 2020-6-8 | OpenHive.js | Philipp Dunkel on Temporal |  | [Recording](https://anchor.fm/openhivejs/episodes/Philipp-Dunkel-on-Temporal-ef562f) |  |  |
+| 2020-6-8 | OpenHive.js | Laurie Barth on Maintaining Gatsby |  | [Recording](https://anchor.fm/openhivejs/episodes/Laurie-Barth-on-Maintaining-Gatsby-ef6p8i) |  | English |
+| 2020-6-8 | OpenHive.js | Liran Tal on Empowering Open Source |  | [Recording](https://anchor.fm/openhivejs/episodes/Liran-Tal-on-Empowering-Open-Source-ef6lt7) |  | English |
+| 2020-6-8 | OpenHive.js | Philipp Dunkel on Temporal |  | [Recording](https://anchor.fm/openhivejs/episodes/Philipp-Dunkel-on-Temporal-ef562f) |  | English |
 | 2020-3-3 | Node.TLV | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=PIfg1AXwtQo) | IL | English |
 
 
@@ -156,4 +156,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T09:10:17.190Z</i>
+<i>Updated on 2021-12-29T09:44:06.634Z</i>
