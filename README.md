@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-80-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-44-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-90-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-53-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -8,12 +8,12 @@
 
  - [Year of 2021](#2021) - total events 28
  - [Year of 2020](#2020) - total events 23
- - [Year of 2019](#2019) - total events 8
- - [Year of 2018](#2018) - total events 6
- - [Year of 2017](#2017) - total events 3
- - [Year of 2016](#2016) - total events 4
- - [Year of 2015](#2015) - total events 2
- - [Year of 2014](#2014) - total events 4
+ - [Year of 2019](#2019) - total events 9
+ - [Year of 2018](#2018) - total events 8
+ - [Year of 2017](#2017) - total events 5
+ - [Year of 2016](#2016) - total events 5
+ - [Year of 2015](#2015) - total events 5
+ - [Year of 2014](#2014) - total events 5
  - [Year of 2013](#2013) - total events 2
 
 # 2021
@@ -90,7 +90,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -101,6 +101,7 @@
 | 2019-11-14 | JS Party | You're probably using streams |  | [Recording](https://changelog.com/jsparty/103) |  | English |
 | 2019-11-14 | Real Talk JavaScript | Node.js Optimization and Performance - Matteo Collina |  | [Recording](https://webrush.io/episodes/56c29daf-a173683b) |  | English |
 | 2019-6-27 | WorkerConf | Stream Into the Future |  | [Recording](https://www.youtube.com/watch?v=bD8OrK50SuQ) | NL | English |
+| 2019-5-12 | FullStack NYC | Take Your Http Server to Ludicrous Speed |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | US | English |
 | 2019-3-6 | QCon London 2019 | A New Way to Profile Node.js |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | UK | English |
 | 2019-2-7 | JSConf Hawaii 2019 | Bubble Up Your Node.js I/O - JSConf Hawaii 2019 |  | [Recording](https://www.youtube.com/watch?v=rYqh5LYfw0Y) | US | English |
 
@@ -108,12 +109,14 @@
 # 2018
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)    ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2018-11-26 | Nodejsconf.it 2018 | The State of Node.js Core |  | [Recording](https://www.youtube.com/watch?v=IgLDtvo6kLM) | IT | English |
+| 2018-7-11 | FullStack | The Node.js Performance Workshop |  |  | UK | English |
+| 2018-6-28 | FullStack | A New Way to Profile Node.js |  | [Recording](https://skillsmatter.com/skillscasts/11781-a-new-way-to-profile-node-js) | UK | English |
 | 2018-6-28 | WorkerConf | A New Way to Profile Node.js |  | [Recording](https://www.youtube.com/watch?v=DOIpzLJ1oN8) | AT | English |
 | 2018-6-28 | NodeConf.eu | GraphQL Accelerated |  | [Recording](https://www.youtube.com/watch?v=-V86BB9wrG8) | IE | English |
 | 2018-4-11 | Codemotion Rome 2018 | There is no such thing as Luck |  | [Recording](https://www.youtube.com/watch?v=SJjvafV7xlU) | IT | English |
@@ -124,24 +127,27 @@
 # 2017
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2017-10-4 | Node.js Interactive 2017 | Take Your Http Server to Ludicrous Speed |  | [Recording](https://www.youtube.com/watch?v=gltzZjKYK1I) | CA | English |
 | 2017-10-4 | Node.js Interactive 2017 | The Node movement and how to play a part |  | [Recording](https://www.youtube.com/watch?v=OekXkuZ2u7o) | CA | English |
+| 2017-7-12 | FullStack | Take Your Http Server to Ludicrous Speed |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | UK | English |
+| 2017-7-12 | FullStack | The Cost of Logging |  | [Recording](https://skillsmatter.com/skillscasts/10479-the-cost-of-logging-intermediate) | UK | English |
 | 2017-5-10 | JSDay | How Open Source Changed My Life! |  | [Recording](https://vimeo.com/236315423) | IT | English |
 
 
 # 2016
 
 
-![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2016-11-7 | uCon | Scaling State |  | [Recording](https://skillsmatter.com/skillscasts/8747-scaling-state) | UK | English |
 | 2016-10-20 | NodeConf.eu | The Cost of Logging |  | [Recording](https://www.youtube.com/watch?v=zja-_IYNrFc) | IE | English |
 | 2016-9-15 | Node.js Interactive Europe 2016 | The Cost of Logging |  | [Recording](https://www.youtube.com/watch?v=Dnx2SPdcDSU) | NL | English |
 | 2016-7-26 | Node.js Summit 2016 | The Cost of Logging |  | [Recording](https://vimeo.com/180476148) | US | English |
@@ -151,24 +157,28 @@
 # 2015
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2015-12-8 | Node.js Interactive 2015 | Reaching Ludicrous Speed |  | [Recording](https://www.youtube.com/watch?v=_0W_822Dijg) | US | English |
+| 2015-11-9 | uCon | We are not Object Oriented anymore |  | [Recording](https://skillsmatter.com/skillscasts/7014-we-are-not-object-oriented-anymore) | UK | English |
+| 2015-11-5 | uCon Stockholm | We are not Object Oriented anymore |  |  | SE | English |
+| 2015-10-26 | FullStack | We are not Object Oriented anymore |  | [Recording](https://skillsmatter.com/skillscasts/6819-we-are-not-object-oriented-anymore-or-why-the-node-callback-style-is-awesome) | UK | English |
 | 2015-3-25 | Codemotion Rome | NO. La sottile arte di trovare il tempo dove non esiste - Codemotion Rome 2015 |  | [Recording](https://www.youtube.com/watch?v=9Pbu5rMiz5g) | IT | Italian |
 
 
 # 2014
 
 
-![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2014-11-21 | NodeConf Budapest 2014 | Hardware Hacking on Stage |  | [Recording](https://www.youtube.com/watch?v=6qF_x_wGLl0) | HU | English |
+| 2014-10-23 | FullStack | Live Code the Intenet of Things |  | [Recording](https://skillsmatter.com/skillscasts/5779-live-code-the-internet-of-things) | UK | English |
 | 2014-9-7 | NodeConf.eu | Full Stack Through Microservices |  | [Recording](https://www.youtube.com/watch?v=l4Oc3E1hvTQ) | IE | English |
 | 2014-6-27 | LXJS | Live Code a Robot and Control it from the Web |  | [Recording](https://www.youtube.com/watch?v=BxJ-27Nnakc) | PT | English |
 | 2014-5-14 | JSDay | Taking your things to your web app using MQTT and Node.js |  | [Recording](https://vimeo.com/128349453) | IT | English |
@@ -189,4 +199,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T16:43:25.766Z</i>
+<i>Updated on 2021-12-29T18:06:57.205Z</i>
