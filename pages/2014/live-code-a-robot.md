@@ -7,7 +7,7 @@ type: conference
 title: Live Code a Robot and Control it from the Web
 slides_url:
 recording_url: https://www.youtube.com/watch?v=BxJ-27Nnakc
-city: Liston
+city: Lisbon
 country: Portugal
 country_code: PT
 language: English
