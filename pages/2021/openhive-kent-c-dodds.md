@@ -6,4 +6,5 @@ url: https://anchor.fm/openhivejs
 type: podcast
 title: Kent C. Dodds on JavaScript Training
 recording_url: https://anchor.fm/openhivejs/episodes/Kent-C--Dodds-on-JavaScript-Training-eudrdn
+language: English
 ---

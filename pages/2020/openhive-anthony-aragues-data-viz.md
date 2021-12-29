@@ -7,4 +7,5 @@ type: podcast
 title: Anthony Aragues on Data Visualisation
 slides_url:
 recording_url: https://anchor.fm/openhivejs/episodes/Anthony-Aragues-on-Data-Visualisation-emau0n
+language: English
 ---

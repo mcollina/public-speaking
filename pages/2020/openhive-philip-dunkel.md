@@ -7,4 +7,5 @@ type: podcast
 title: Philipp Dunkel on Temporal
 slides_url:
 recording_url: https://anchor.fm/openhivejs/episodes/Philipp-Dunkel-on-Temporal-ef562f
+language: English
 ---

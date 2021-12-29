@@ -6,4 +6,5 @@ url: https://anchor.fm/openhivejs
 type: podcast
 title: The Next 25 Years of JavaScript
 recording_url: https://anchor.fm/openhivejs/episodes/The-Next-25-Years-of-JavaScript-eqahde
+language: English
 ---

@@ -6,4 +6,5 @@ url: https://anchor.fm/openhivejs
 type: podcast
 title: Mikeal Rogers on Decentralised Databases
 recording_url: https://anchor.fm/openhivejs/episodes/Mikeal-Rogers-on-Decentralised-Databases-eniueg
+language: English
 ---

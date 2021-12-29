@@ -7,4 +7,5 @@ type: podcast
 title: Liran Tal on Empowering Open Source
 slides_url:
 recording_url: https://anchor.fm/openhivejs/episodes/Liran-Tal-on-Empowering-Open-Source-ef6lt7
+language: English
 ---

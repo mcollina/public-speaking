@@ -7,4 +7,5 @@ type: podcast
 title: Kenigbolo Meya Stephen on Documentation
 slides_url:
 recording_url: https://anchor.fm/openhivejs/episodes/Kenigbolo-Meya-Stephen-on-Documentation-ejc6a7
+language: English
 ---
