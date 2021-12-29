@@ -1,7 +1,7 @@
 ---
 date: 2021-03-31
 tags: post
-name: NearForm Presents: Node Core + Broken Promises workshop
+name: "NearForm Presents: Node Core + Broken Promises workshop"
 url: https://www.nearform.com/events/
 type: workshop
 title: Broken Promises

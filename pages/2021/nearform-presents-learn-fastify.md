@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 tags: post
-name: NearForm Presents: Backend Development with Node.js
+name: "NearForm Presents: Backend Development with Node.js"
 url: https://www.nearform.com/events/
 type: workshop
 title: Learn Fastify One Plugin at a Time
