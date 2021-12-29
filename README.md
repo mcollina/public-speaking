@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-62-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-37-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-22-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-68-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-38-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 16
+ - [Year of 2021](#2021) - total events 22
  - [Year of 2020](#2020) - total events 18
  - [Year of 2019](#2019) - total events 8
  - [Year of 2018](#2018) - total events 6
@@ -19,7 +19,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-10-yellow?style=flat-square)   ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-22-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -29,14 +29,20 @@
 | 2021-7-29 | OpenHive.js | Gil Tayar on ECMAScript modules (ESM) with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Gil-Tayar-on-ECMAScript-modules-ESM-with-JavaScript-e156djb) |  | English |
 | 2021-7-9 | OpenHive.js | Yoni Goldberg on Integration Tests with JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Yoni-Goldberg-on-Integration-Tests-with-JavaScript-e144ash) |  | English |
 | 2021-6-16 | NearForm Presents: Backend Development with Node.js | Learn Fastify One Plugin at a Time |  |  |  | English |
+| 2021-6-10 | Codemotion DevCast | Open Source e sicurezza, amore e odio |  | [Recording](https://live.codemotion.com/devcast/devcast-italian-edition-10062021) |  | Italian |
 | 2021-6-9 | JSNation | Can We Double HTTP Client Throughput? |  | [Recording](https://www.youtube.com/watch?v=tr057sP4VBM) |  | English |
 | 2021-6-2 | Open.js World 2021 | A fast introduction to Fastify |  | [Recording](https://www.youtube.com/watch?v=MOvLdfUhqrU) |  | English |
 | 2021-5-21 | RedisConf | Solving Head-Of-Line blocking with auto pipelining |  | [Recording](https://www.youtube.com/watch?v=0L0ER4pZbX4) |  | English |
 | 2021-5-12 | OpenHive.js | Danielle Adams on Cloud Native Buildpacks |  | [Recording](https://anchor.fm/openhivejs/episodes/Danielle-Adams-on-Cloud-Native-Buildpacks-e10of7p) |  | English |
 | 2021-5-12 | OpenHive.js | Rob Palmer on Server Side Javascript and TypeScript |  | [Recording](https://anchor.fm/openhivejs/episodes/Rob-Palmer-on-Server-Side-Javascript-and-TypeScript-e12gu0a) |  | English |
+| 2021-5-11 | NearForm Decoded | The promise of DevOps |  | [Recording](https://www.youtube.com/watch?v=zR_Xn32HXuc) |  | English |
+| 2021-4-29 | Gitbar | Nodejs, fastify e opensource con Matteo Collina (Nearform) |  | [Recording](https://www.gitbar.it/episodes/ep71-matteo-collina_2) |  | Italian |
+| 2021-4-22 | Codemotion DevCast | Undici - come ho raddoppiato le performance del HTTP client di Node.js |  | [Recording](https://live.codemotion.com/devcast/devcast---italian-edition-22042021) |  | Italian |
 | 2021-4-7 | OpenHive.js | Kent C. Dodds on JavaScript Training |  | [Recording](https://anchor.fm/openhivejs/episodes/Kent-C--Dodds-on-JavaScript-Training-eudrdn) |  | English |
 | 2021-3-31 | NearForm Presents: Node Core + Broken Promises workshop | Broken Promises |  |  |  | English |
 | 2021-3-31 | NearForm Presents: Node Core + Broken Promises workshop | The Unsung Story of Events, Streams and Promises |  | [Recording](https://www.youtube.com/watch?v=qOHgQAV2ydo) |  | English |
+| 2021-3-23 | Codemotion Italian Edition | Be the glue |  | [Recording](https://talks.codemotion.com/be-the-glue) |  | English |
+| 2021-2-25 | Codemotion DevCast | Fastify - Un framework cucinato a Bologna |  | [Recording](https://talks.codemotion.com/fastify-un-framework-cucinato-a-bologna) |  | Italian |
 | 2021-2-12 | OpenHive.js | Liz Parody on Building Communities |  | [Recording](https://anchor.fm/openhivejs/episodes/Liz-Parody-on-Building-Communities-es6o5e) |  | English |
 | 2021-2-12 | OpenHive.js | The Next 25 Years of JavaScript |  | [Recording](https://anchor.fm/openhivejs/episodes/The-Next-25-Years-of-JavaScript-eqahde) |  | English |
 | 2021-1-6 | OpenHive.js | Mikeal Rogers on Open Source |  | [Recording](https://anchor.fm/openhivejs/episodes/Mikeal-Rogers-on-the-Open-Source-Model-eokfbo) |  | English |
@@ -171,4 +177,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T11:08:40.966Z</i>
+<i>Updated on 2021-12-29T13:58:31.066Z</i>
