@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-91-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-54-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-92-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-55-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -10,7 +10,7 @@
  - [Year of 2020](#2020) - total events 23
  - [Year of 2019](#2019) - total events 10
  - [Year of 2018](#2018) - total events 8
- - [Year of 2017](#2017) - total events 5
+ - [Year of 2017](#2017) - total events 6
  - [Year of 2016](#2016) - total events 5
  - [Year of 2015](#2015) - total events 5
  - [Year of 2014](#2014) - total events 5
@@ -128,7 +128,7 @@
 # 2017
 
 
-![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -137,6 +137,7 @@
 | 2017-10-4 | Node.js Interactive 2017 | The Node movement and how to play a part |  | [Recording](https://www.youtube.com/watch?v=OekXkuZ2u7o) | CA | English |
 | 2017-7-12 | FullStack | Take Your Http Server to Ludicrous Speed |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | UK | English |
 | 2017-7-12 | FullStack | The Cost of Logging |  | [Recording](https://skillsmatter.com/skillscasts/10479-the-cost-of-logging-intermediate) | UK | English |
+| 2017-6-1 | Web Rebels | Scaling State |  | [Recording](https://2017.webrebels.org/) | NO | English |
 | 2017-5-10 | JSDay | How Open Source Changed My Life! |  | [Recording](https://vimeo.com/236315423) | IT | English |
 
 
@@ -200,4 +201,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2021-12-29T18:20:17.280Z</i>
+<i>Updated on 2021-12-30T08:48:06.616Z</i>
