@@ -27,7 +27,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-12-9 | GraphQL Galaxy | [GraphQL Caching Demystified](pages/2021/graphql-galaxy-mercurius-cache.md) |  | [Recording](https://portal.gitnation.org/contents/graphql-caching-demystified) |  | English |
-| 2021-11-23 | JSNation | [1, 2, 3.. Fastify!](pages/2021/one-two-three-fastify.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/1-2-3-fastify) |  | English |
+| 2021-11-23 | We are developers - JavaScript Congress | [1, 2, 3.. Fastify!](pages/2021/one-two-three-fastify.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/1-2-3-fastify) |  | English |
 | 2021-11-16 | ITClass | [GraphQL Caching Demystified](pages/2021/itclass-webinar-graphql-caching-demystified.md) |  | [Recording](https://www.youtube.com/watch?v=uA1exBqZ9i0) |  | English |
 | 2021-11-15 | JSConf India | [Multithreaded Logging with Pino](pages/2021/jsconf-india-pino-multithread.md) |  |  |  | English |
 | 2021-11-15 | Node.TLV | [Multithreaded Logging with Pino](pages/2021/nodetlv-pino-multithread.md) |  |  | IL | English |
@@ -220,4 +220,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2022-01-10T08:29:47.717Z</i>
+<i>Updated on 2022-01-10T08:50:22.710Z</i>
