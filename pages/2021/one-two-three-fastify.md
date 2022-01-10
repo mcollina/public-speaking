@@ -1,7 +1,7 @@
 ---
 date: 2021-11-23
 tags: post
-name: JSNation
+name: We are developers - JavaScript Congress
 url: https://www.wearedevelopers.com/javascript-congress
 type: conference
 title: 1, 2, 3.. Fastify!
