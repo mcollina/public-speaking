@@ -1,0 +1,65 @@
+:root {
+  --nightrider-gray: #333;
+  --white-smoke: #eee;
+  --blue: #0ff;
+  --cornflower-blue: #539bf5;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg: var(--white-smoke);
+    --color-text: var(--nightrider-gray);
+    --color-link: var(--cornflower-blue);
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: var(--nightrider-gray);
+    --color-text: var(--white-smoke);
+    --color-link: var(--cornflower-blue);
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, system-ui, sans-serif;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+}
+
+main {
+  max-width: calc(900px - (20px * 2));
+  margin: 0 auto;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  border: 1px solid var(--color-text);
+  padding: 5px;
+  text-align: left;
+}

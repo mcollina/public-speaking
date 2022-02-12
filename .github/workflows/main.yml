@@ -19,15 +19,21 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Create gigs 
-        run: npx @gigsboat/cli
 
-      - name: Push gigs into repository README
+      - name: Install Dependencies
+        id: install
+        run: npm install --ignore-scripts
+
+      - name: Build
+        id: build
+        run: npm run build
+
+      - name: Push gigs into repository
         uses: github-actions-x/commit@v2.8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'main'
-          commit-message: 'chore: updating README with new gigs'
-          files: README.md
+          commit-message: 'chore: updating README with new gigs and create HTML'
+          files: README.md docs/
           name: Matteo Collina
           email: matteo.collina@gmail.com

@@ -1,0 +1,24 @@
+{
+  "name": "public-speaking",
+  "version": "1.0.0",
+  "description": "Matteo Collina public speaking gigs",
+  "private": true,
+  "scripts": {
+    "build": "npx @gigsboat/cli && cp README.md gigsboat-eleventy-starter/index.md && npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/public-speaking.git"
+  },
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "bugs": {
+    "url": "https://github.com/mcollina/public-speaking/issues"
+  },
+  "homepage": "https://github.com/mcollina/public-speaking#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@gigsboat/cli": "github:gigsboat/cli",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^8.4.1"
+  }
+}
