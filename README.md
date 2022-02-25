@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-93-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-56-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-94-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-56-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-26-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -6,6 +6,7 @@
 # Table of Contents
 
 
+ - [Year of 2022](#2022) - total events 1
  - [Year of 2021](#2021) - total events 29
  - [Year of 2020](#2020) - total events 23
  - [Year of 2019](#2019) - total events 10
@@ -15,6 +16,19 @@
  - [Year of 2015](#2015) - total events 5
  - [Year of 2014](#2014) - total events 5
  - [Year of 2013](#2013) - total events 2
+
+# 2022
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-2-25 | PodRocket | [Fastify and Pino with Matteo Collina](pages/2022/podrocket.md) |  | [Recording](https://podrocket.logrocket.com/fastify) |  | English |
+
 
 # 2021
 
@@ -30,7 +44,7 @@
 | 2021-11-23 | We are developers - JavaScript Congress | [1, 2, 3.. Fastify!](pages/2021/one-two-three-fastify.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/1-2-3-fastify) |  | English |
 | 2021-11-16 | ITClass | [GraphQL Caching Demystified](pages/2021/itclass-webinar-graphql-caching-demystified.md) |  | [Recording](https://www.youtube.com/watch?v=uA1exBqZ9i0) |  | English |
 | 2021-11-15 | JSConf India | [Multithreaded Logging with Pino](pages/2021/jsconf-india-pino-multithread.md) |  |  |  | English |
-| 2021-11-15 | Node.TLV | [Multithreaded Logging with Pino](pages/2021/nodetlv-pino-multithread.md) |  |  | IL | English |
+| 2021-11-15 | Node.TLV | [Multithreaded Logging with Pino](pages/2021/nodetlv-pino-multithread.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2021-10-18 | NodeConf Remote | [Multithreaded Logging with Pino](pages/2021/nodeconf-pino-multithread.md) |  | [Recording](https://www.youtube.com/watch?v=vETUVN-KEgc) |  | English |
 | 2021-10-7 | JS Party | [Fastify served with a refreshing Pino 🍷](pages/2021/jsparty-fastify.md) |  | [Recording](https://changelog.com/jsparty/197) |  | English |
 | 2021-7-29 | OpenHive.js | [Charlie Robbins on JavaScript, TypeScript and the history and future of Node.js](pages/2021/openhive-charlie-robbins.md) |  | [Recording](https://anchor.fm/openhivejs/episodes/Charlie-Robbins-on-JavaScript--TypeScript-and-the-history-and-future-of-Node-js-e156dab) |  | English |
@@ -89,7 +103,7 @@
 | 2020-6-8 | OpenHive.js | [Liran Tal on Empowering Open Source](pages/2020/openhive-liran-tal.md) |  | [Recording](https://anchor.fm/openhivejs/episodes/Liran-Tal-on-Empowering-Open-Source-ef6lt7) |  | English |
 | 2020-6-8 | OpenHive.js | [Philipp Dunkel on Temporal](pages/2020/openhive-philip-dunkel.md) |  | [Recording](https://anchor.fm/openhivejs/episodes/Philipp-Dunkel-on-Temporal-ef562f) |  | English |
 | 2020-5-20 | Storie di developers | [Intervista a Matteo Collina](pages/2020/storie-di-developers.md) |  | [Recording](https://www.youtube.com/watch?v=VHoyXNqjuGY) |  | Italian |
-| 2020-3-3 | Node.TLV | [Stream Into the Future](pages/2020/stream-into-the-future-node-tlv.md) |  | [Recording](https://www.youtube.com/watch?v=PIfg1AXwtQo) | IL | English |
+| 2020-3-3 | Node.TLV | [Stream Into the Future](pages/2020/stream-into-the-future-node-tlv.md) |  | [Recording](https://www.youtube.com/watch?v=PIfg1AXwtQo) | [🇮🇱](## "Israel") | English |
 
 
 # 2019
@@ -102,16 +116,16 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2019-12-11 | Node.js Interactive 2019 | [GraphQL Simplified](pages/2019/graphql-simplified.md) |  | [Recording](https://www.youtube.com/watch?v=E7KDpZYO_1o) | CA | English |
-| 2019-12-11 | Node.js Conference Netherlands 2019 | [Stream Into the Future](pages/2019/stream-into-the-future-interactive.md) |  | [Recording](https://www.youtube.com/watch?v=RVcd1c-sTjU) | NL | English |
-| 2019-12-11 | Node.js Interactive 2019 | [Stream Into the Future](pages/2019/stream-into-the-future-netherlands.md) |  | [Recording](https://www.youtube.com/watch?v=dEFdt_6fW-0) | CA | English |
+| 2019-12-11 | Node.js Interactive 2019 | [GraphQL Simplified](pages/2019/graphql-simplified.md) |  | [Recording](https://www.youtube.com/watch?v=E7KDpZYO_1o) | [🇨🇦](## "Canada") | English |
+| 2019-12-11 | Node.js Conference Netherlands 2019 | [Stream Into the Future](pages/2019/stream-into-the-future-interactive.md) |  | [Recording](https://www.youtube.com/watch?v=RVcd1c-sTjU) | [🇳🇱](## "Netherlands") | English |
+| 2019-12-11 | Node.js Interactive 2019 | [Stream Into the Future](pages/2019/stream-into-the-future-netherlands.md) |  | [Recording](https://www.youtube.com/watch?v=dEFdt_6fW-0) | [🇨🇦](## "Canada") | English |
 | 2019-11-14 | JS Party | [You're probably using streams](pages/2019/jsparty-streams.md) |  | [Recording](https://changelog.com/jsparty/103) |  | English |
 | 2019-11-14 | Real Talk JavaScript | [Node.js Optimization and Performance - Matteo Collina](pages/2019/realtalkjavascript-nodejs-optimization-and-performance.md) |  | [Recording](https://webrush.io/episodes/56c29daf-a173683b) |  | English |
-| 2019-6-27 | WorkerConf | [Stream Into the Future](pages/2019/stream-into-the-future-workerconf.md) |  | [Recording](https://www.youtube.com/watch?v=bD8OrK50SuQ) | NL | English |
-| 2019-5-12 | FullStack NYC | [Take Your Http Server to Ludicrous Speed](pages/2019/take-your-http-server-to-ludicrous-speed-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | US | English |
-| 2019-5-6 | Microsoft Build | [Build Scalable APIs with GraphQL](pages/2019/microsoft-build.md) |  |  | US | English |
-| 2019-3-6 | QCon London 2019 | [A New Way to Profile Node.js](pages/2019/a-new-way-to-profile-node-js-qcon.md) |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | UK | English |
-| 2019-2-7 | JSConf Hawaii 2019 | [Bubble Up Your Node.js I/O - JSConf Hawaii 2019](pages/2019/bubble-up-your-node-io-jsconf-hawaii.md) |  | [Recording](https://www.youtube.com/watch?v=rYqh5LYfw0Y) | US | English |
+| 2019-6-27 | WorkerConf | [Stream Into the Future](pages/2019/stream-into-the-future-workerconf.md) |  | [Recording](https://www.youtube.com/watch?v=bD8OrK50SuQ) | [🇳🇱](## "Netherlands") | English |
+| 2019-5-12 | FullStack NYC | [Take Your Http Server to Ludicrous Speed](pages/2019/take-your-http-server-to-ludicrous-speed-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | [🇺🇸](## "United States") | English |
+| 2019-5-6 | Microsoft Build | [Build Scalable APIs with GraphQL](pages/2019/microsoft-build.md) |  |  | [🇺🇸](## "United States") | English |
+| 2019-3-6 | QCon London 2019 | [A New Way to Profile Node.js](pages/2019/a-new-way-to-profile-node-js-qcon.md) |  | [Recording](https://www.youtube.com/watch?v=ASv8188AkVk) | [🇬🇧](## "undefined") | English |
+| 2019-2-7 | JSConf Hawaii 2019 | [Bubble Up Your Node.js I/O - JSConf Hawaii 2019](pages/2019/bubble-up-your-node-io-jsconf-hawaii.md) |  | [Recording](https://www.youtube.com/watch?v=rYqh5LYfw0Y) | [🇺🇸](## "United States") | English |
 
 
 # 2018
@@ -124,14 +138,14 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2018-11-26 | Nodejsconf.it 2018 | [The State of Node.js Core](pages/2018/the-state-of-nodejs-core.md) |  | [Recording](https://www.youtube.com/watch?v=IgLDtvo6kLM) | IT | English |
-| 2018-7-11 | FullStack | [The Node.js Performance Workshop](pages/2018/the-nodejs-performance-workshop-fullstack.md) |  |  | UK | English |
-| 2018-6-28 | FullStack | [A New Way to Profile Node.js](pages/2018/a-new-way-to-profile-node-js-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/11781-a-new-way-to-profile-node-js) | UK | English |
-| 2018-6-28 | WorkerConf | [A New Way to Profile Node.js](pages/2018/a-new-way-to-profile-node-js-workerconf.md) |  | [Recording](https://www.youtube.com/watch?v=DOIpzLJ1oN8) | AT | English |
-| 2018-6-28 | NodeConf.eu | [GraphQL Accelerated](pages/2018/graphql-accelerated.md) |  | [Recording](https://www.youtube.com/watch?v=-V86BB9wrG8) | IE | English |
-| 2018-4-11 | Codemotion Rome 2018 | [There is no such thing as Luck](pages/2018/there-is-no-such-thing-as-luck.md) |  | [Recording](https://www.youtube.com/watch?v=SJjvafV7xlU) | IT | English |
-| 2018-4-9 | JSDay | [My Node.js Process is on Fire!](pages/2018/my-nodejs-process-is-on-fire-jsday.md) |  | [Recording](https://www.youtube.com/watch?v=mR5AhImHjZU) | IT | English |
-| 2018-1-25 | JSConf Asia 2018 | [My Node.js Process is on Fire!](pages/2018/my-nodejs-process-is-on-fire.md) |  | [Recording](https://www.youtube.com/watch?v=G9Vkpe55Gu8) | SG | English |
+| 2018-11-26 | Nodejsconf.it 2018 | [The State of Node.js Core](pages/2018/the-state-of-nodejs-core.md) |  | [Recording](https://www.youtube.com/watch?v=IgLDtvo6kLM) | [🇮🇹](## "Italy") | English |
+| 2018-7-11 | FullStack | [The Node.js Performance Workshop](pages/2018/the-nodejs-performance-workshop-fullstack.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2018-6-28 | FullStack | [A New Way to Profile Node.js](pages/2018/a-new-way-to-profile-node-js-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/11781-a-new-way-to-profile-node-js) | [🇬🇧](## "undefined") | English |
+| 2018-6-28 | WorkerConf | [A New Way to Profile Node.js](pages/2018/a-new-way-to-profile-node-js-workerconf.md) |  | [Recording](https://www.youtube.com/watch?v=DOIpzLJ1oN8) | [🇦🇹](## "Austria") | English |
+| 2018-6-28 | NodeConf.eu | [GraphQL Accelerated](pages/2018/graphql-accelerated.md) |  | [Recording](https://www.youtube.com/watch?v=-V86BB9wrG8) | [🇮🇪](## "Ireland") | English |
+| 2018-4-11 | Codemotion Rome 2018 | [There is no such thing as Luck](pages/2018/there-is-no-such-thing-as-luck.md) |  | [Recording](https://www.youtube.com/watch?v=SJjvafV7xlU) | [🇮🇹](## "Italy") | English |
+| 2018-4-9 | JSDay | [My Node.js Process is on Fire!](pages/2018/my-nodejs-process-is-on-fire-jsday.md) |  | [Recording](https://www.youtube.com/watch?v=mR5AhImHjZU) | [🇮🇹](## "Italy") | English |
+| 2018-1-25 | JSConf Asia 2018 | [My Node.js Process is on Fire!](pages/2018/my-nodejs-process-is-on-fire.md) |  | [Recording](https://www.youtube.com/watch?v=G9Vkpe55Gu8) | [🇸🇬](## "Singapore") | English |
 
 
 # 2017
@@ -144,12 +158,12 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2017-10-4 | Node.js Interactive 2017 | [Take Your Http Server to Ludicrous Speed](pages/2017/take-your-http-server-to-ludicrous-speed.md) |  | [Recording](https://www.youtube.com/watch?v=gltzZjKYK1I) | CA | English |
-| 2017-10-4 | Node.js Interactive 2017 | [The Node movement and how to play a part](pages/2017/the-node-movement-and-how-to-play-a-part.md) |  | [Recording](https://www.youtube.com/watch?v=OekXkuZ2u7o) | CA | English |
-| 2017-7-12 | FullStack | [Take Your Http Server to Ludicrous Speed](pages/2017/take-your-http-server-to-ludicrous-speed-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | UK | English |
-| 2017-7-12 | FullStack | [The Cost of Logging](pages/2017/the-cost-of-logging-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/10479-the-cost-of-logging-intermediate) | UK | English |
-| 2017-6-1 | Web Rebels | [Scaling State](pages/2017/scalable-pub-sub.md) |  | [Recording](https://2017.webrebels.org/) | NO | English |
-| 2017-5-10 | JSDay | [How Open Source Changed My Life!](pages/2017/how-open-source-changed-my-life.md) |  | [Recording](https://vimeo.com/236315423) | IT | English |
+| 2017-10-4 | Node.js Interactive 2017 | [Take Your Http Server to Ludicrous Speed](pages/2017/take-your-http-server-to-ludicrous-speed.md) |  | [Recording](https://www.youtube.com/watch?v=gltzZjKYK1I) | [🇨🇦](## "Canada") | English |
+| 2017-10-4 | Node.js Interactive 2017 | [The Node movement and how to play a part](pages/2017/the-node-movement-and-how-to-play-a-part.md) |  | [Recording](https://www.youtube.com/watch?v=OekXkuZ2u7o) | [🇨🇦](## "Canada") | English |
+| 2017-7-12 | FullStack | [Take Your Http Server to Ludicrous Speed](pages/2017/take-your-http-server-to-ludicrous-speed-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/10342-take-your-http-server-to-ludicrous-speed) | [🇬🇧](## "undefined") | English |
+| 2017-7-12 | FullStack | [The Cost of Logging](pages/2017/the-cost-of-logging-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/10479-the-cost-of-logging-intermediate) | [🇬🇧](## "undefined") | English |
+| 2017-6-1 | Web Rebels | [Scaling State](pages/2017/scalable-pub-sub.md) |  | [Recording](https://2017.webrebels.org/) | [🇳🇴](## "Norway") | English |
+| 2017-5-10 | JSDay | [How Open Source Changed My Life!](pages/2017/how-open-source-changed-my-life.md) |  | [Recording](https://vimeo.com/236315423) | [🇮🇹](## "Italy") | English |
 
 
 # 2016
@@ -162,11 +176,11 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2016-11-7 | uCon | [Scaling State](pages/2016/scaling-state-ucon.md) |  | [Recording](https://skillsmatter.com/skillscasts/8747-scaling-state) | UK | English |
-| 2016-10-20 | NodeConf.eu | [The Cost of Logging](pages/2016/the-cost-of-logging-nodeconf.md) |  | [Recording](https://www.youtube.com/watch?v=zja-_IYNrFc) | IE | English |
-| 2016-9-15 | Node.js Interactive Europe 2016 | [The Cost of Logging](pages/2016/the-cost-of-logging-node-interactive.md) |  | [Recording](https://www.youtube.com/watch?v=Dnx2SPdcDSU) | NL | English |
-| 2016-7-26 | Node.js Summit 2016 | [The Cost of Logging](pages/2016/the-cost-of-logging-node-summit.md) |  | [Recording](https://vimeo.com/180476148) | US | English |
-| 2016-3-18 | Codemotion Rome 2016 | [We are not Object-Oriented Anymore](pages/2016/we-are-not-object-oriented-anymore.md) |  | [Recording](https://www.youtube.com/watch?v=5uucS0LH-oM) | IE | English |
+| 2016-11-7 | uCon | [Scaling State](pages/2016/scaling-state-ucon.md) |  | [Recording](https://skillsmatter.com/skillscasts/8747-scaling-state) | [🇬🇧](## "undefined") | English |
+| 2016-10-20 | NodeConf.eu | [The Cost of Logging](pages/2016/the-cost-of-logging-nodeconf.md) |  | [Recording](https://www.youtube.com/watch?v=zja-_IYNrFc) | [🇮🇪](## "Ireland") | English |
+| 2016-9-15 | Node.js Interactive Europe 2016 | [The Cost of Logging](pages/2016/the-cost-of-logging-node-interactive.md) |  | [Recording](https://www.youtube.com/watch?v=Dnx2SPdcDSU) | [🇳🇱](## "Netherlands") | English |
+| 2016-7-26 | Node.js Summit 2016 | [The Cost of Logging](pages/2016/the-cost-of-logging-node-summit.md) |  | [Recording](https://vimeo.com/180476148) | [🇺🇸](## "United States") | English |
+| 2016-3-18 | Codemotion Rome 2016 | [We are not Object-Oriented Anymore](pages/2016/we-are-not-object-oriented-anymore.md) |  | [Recording](https://www.youtube.com/watch?v=5uucS0LH-oM) | [🇮🇪](## "Ireland") | English |
 
 
 # 2015
@@ -179,11 +193,11 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2015-12-8 | Node.js Interactive 2015 | [Reaching Ludicrous Speed](pages/2015/reaching-ludicrous-speed.md) |  | [Recording](https://www.youtube.com/watch?v=_0W_822Dijg) | US | English |
-| 2015-11-9 | uCon | [We are not Object Oriented anymore](pages/2015/we-are-not-object-oriented-anymore-ucon-london.md) |  | [Recording](https://skillsmatter.com/skillscasts/7014-we-are-not-object-oriented-anymore) | UK | English |
-| 2015-11-5 | uCon Stockholm | [We are not Object Oriented anymore](pages/2015/we-are-not-object-oriented-anymore-ucon.md) |  |  | SE | English |
-| 2015-10-26 | FullStack | [We are not Object Oriented anymore](pages/2015/we-are-not-object-oriented-anymore-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/6819-we-are-not-object-oriented-anymore-or-why-the-node-callback-style-is-awesome) | UK | English |
-| 2015-3-25 | Codemotion Rome | [NO. La sottile arte di trovare il tempo dove non esiste - Codemotion Rome 2015](pages/2015/no-la-sottile-arte-di-trovare-il-tempo-dove-non-esiste.md) |  | [Recording](https://www.youtube.com/watch?v=9Pbu5rMiz5g) | IT | Italian |
+| 2015-12-8 | Node.js Interactive 2015 | [Reaching Ludicrous Speed](pages/2015/reaching-ludicrous-speed.md) |  | [Recording](https://www.youtube.com/watch?v=_0W_822Dijg) | [🇺🇸](## "United States") | English |
+| 2015-11-9 | uCon | [We are not Object Oriented anymore](pages/2015/we-are-not-object-oriented-anymore-ucon-london.md) |  | [Recording](https://skillsmatter.com/skillscasts/7014-we-are-not-object-oriented-anymore) | [🇬🇧](## "undefined") | English |
+| 2015-11-5 | uCon Stockholm | [We are not Object Oriented anymore](pages/2015/we-are-not-object-oriented-anymore-ucon.md) |  |  | [🇸🇪](## "Sweden") | English |
+| 2015-10-26 | FullStack | [We are not Object Oriented anymore](pages/2015/we-are-not-object-oriented-anymore-fullstack.md) |  | [Recording](https://skillsmatter.com/skillscasts/6819-we-are-not-object-oriented-anymore-or-why-the-node-callback-style-is-awesome) | [🇬🇧](## "undefined") | English |
+| 2015-3-25 | Codemotion Rome | [NO. La sottile arte di trovare il tempo dove non esiste - Codemotion Rome 2015](pages/2015/no-la-sottile-arte-di-trovare-il-tempo-dove-non-esiste.md) |  | [Recording](https://www.youtube.com/watch?v=9Pbu5rMiz5g) | [🇮🇹](## "Italy") | Italian |
 
 
 # 2014
@@ -196,11 +210,11 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2014-11-21 | NodeConf Budapest 2014 | [Hardware Hacking on Stage](pages/2014/harware-hacking-on-stage.md) |  | [Recording](https://www.youtube.com/watch?v=6qF_x_wGLl0) | HU | English |
-| 2014-10-23 | FullStack | [Live Code the Intenet of Things](pages/2014/live-code-the-internet-of-things.md) |  | [Recording](https://skillsmatter.com/skillscasts/5779-live-code-the-internet-of-things) | UK | English |
-| 2014-9-7 | NodeConf.eu | [Full Stack Through Microservices](pages/2014/full-stack-through-microservices.md) |  | [Recording](https://www.youtube.com/watch?v=l4Oc3E1hvTQ) | IE | English |
-| 2014-6-27 | LXJS | [Live Code a Robot and Control it from the Web](pages/2014/live-code-a-robot.md) |  | [Recording](https://www.youtube.com/watch?v=BxJ-27Nnakc) | PT | English |
-| 2014-5-14 | JSDay | [Taking your things to your web app using MQTT and Node.js](pages/2014/mqtt-and-nodejs.md) |  | [Recording](https://vimeo.com/128349453) | IT | English |
+| 2014-11-21 | NodeConf Budapest 2014 | [Hardware Hacking on Stage](pages/2014/harware-hacking-on-stage.md) |  | [Recording](https://www.youtube.com/watch?v=6qF_x_wGLl0) | [🇭🇺](## "Hungary") | English |
+| 2014-10-23 | FullStack | [Live Code the Intenet of Things](pages/2014/live-code-the-internet-of-things.md) |  | [Recording](https://skillsmatter.com/skillscasts/5779-live-code-the-internet-of-things) | [🇬🇧](## "undefined") | English |
+| 2014-9-7 | NodeConf.eu | [Full Stack Through Microservices](pages/2014/full-stack-through-microservices.md) |  | [Recording](https://www.youtube.com/watch?v=l4Oc3E1hvTQ) | [🇮🇪](## "Ireland") | English |
+| 2014-6-27 | LXJS | [Live Code a Robot and Control it from the Web](pages/2014/live-code-a-robot.md) |  | [Recording](https://www.youtube.com/watch?v=BxJ-27Nnakc) | [🇵🇹](## "Portugal") | English |
+| 2014-5-14 | JSDay | [Taking your things to your web app using MQTT and Node.js](pages/2014/mqtt-and-nodejs.md) |  | [Recording](https://vimeo.com/128349453) | [🇮🇹](## "Italy") | English |
 
 
 # 2013
@@ -213,11 +227,11 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2013-9-9 | NodeConf.eu | [MQTT and Node.js, Messaging in the Internet of Things](pages/2013/mqtt-and-nodejs.md) |  | [Recording](https://www.youtube.com/watch?v=WE7GVIFRV7Q) | IE | English |
-| 2013-8-9 | Distill by EngineYard | [Making things that work with us](pages/2013/make-things-that-work-with-us.md) | [Slides](https://www.slideshare.net/matteocollina/making-things-that-work-with-us-distill) |  | US | English |
+| 2013-9-9 | NodeConf.eu | [MQTT and Node.js, Messaging in the Internet of Things](pages/2013/mqtt-and-nodejs.md) |  | [Recording](https://www.youtube.com/watch?v=WE7GVIFRV7Q) | [🇮🇪](## "Ireland") | English |
+| 2013-8-9 | Distill by EngineYard | [Making things that work with us](pages/2013/make-things-that-work-with-us.md) | [Slides](https://www.slideshare.net/matteocollina/making-things-that-work-with-us-distill) |  | [🇺🇸](## "United States") | English |
 
 
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2022-01-10T08:50:22.710Z</i>
+<i>Updated on 2022-02-25T23:37:26.731Z</i>
