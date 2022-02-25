@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-94-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-56-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-26-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-95-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-1-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-57-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-26-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg' alt='Matteo Collina public speaking profile' /></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 1
+ - [Year of 2022](#2022) - total events 2
  - [Year of 2021](#2021) - total events 29
  - [Year of 2020](#2020) - total events 23
  - [Year of 2019](#2019) - total events 10
@@ -20,7 +20,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 
@@ -28,6 +28,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-2-25 | PodRocket | [Fastify and Pino with Matteo Collina](pages/2022/podrocket.md) |  | [Recording](https://podrocket.logrocket.com/fastify) |  | English |
+| 2022-1-26 | JS Poland 2022 | [1, 2, 3.. Fastify!](pages/2022/jspoland.md) |  | [Recording](https://js-poland.pl/javascript-matteo-collina.html) |  | English |
 
 
 # 2021
@@ -234,4 +235,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2022-02-25T23:37:26.731Z</i>
+<i>Updated on 2022-02-25T23:41:55.133Z</i>
