@@ -1,7 +1,7 @@
 ---
 date: 2020-07-14
 tags: post
-name: JSNation
+name: NOTTjs
 url: https://nottsjs.org/events/2020-07-14-one-two-three-fastify/
 type: meetup 
 title: 1, 2, 3.. Fastify!
