@@ -1,13 +1,14 @@
 :root {
   --nightrider-gray: #333;
-  --white-smoke: #eee;
+  --white-smoke: #fff;
   --blue: #0ff;
   --cornflower-blue: #539bf5;
+  --white: #fff;
 }
 
 @media (prefers-color-scheme: light) {
   :root {
-    --color-bg: var(--white-smoke);
+    --color-bg: var(--white);
     --color-text: var(--nightrider-gray);
     --color-link: var(--cornflower-blue);
   }
