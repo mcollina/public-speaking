@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-97-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-2-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-57-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-27-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-99-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-2-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-59-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-27-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg?raw=true' alt='Matteo Collina public speaking profile' /></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 4
+ - [Year of 2022](#2022) - total events 6
  - [Year of 2021](#2021) - total events 29
  - [Year of 2020](#2020) - total events 23
  - [Year of 2019](#2019) - total events 10
@@ -20,13 +20,15 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-6-6 | OpenJS World 2022 | [A Fastify tale of Shapes](pages/2022/openjs-world-fastify.md) |  | [Recording](https://www.youtube.com/watch?v=g-6Ig8k6Nzc&list=PLyspMSh4XhLMSpb4yqi0aPxSioNaP1Wkn) | [🇺🇸](## "United States") | English |
+| 2022-6-6 | OpenJS World 2022 | [Everybody is Responsible for Performance](pages/2022/openjs-world-performance.md) |  | [Recording](https://www.youtube.com/watch?v=A99zkgoFd18) | [🇺🇸](## "United States") | English |
 | 2022-2-25 | Design Talk | [Always put the client first](pages/2022/design-talk.md) |  | [Recording](https://shows.acast.com/design-talk/episodes/always-put-the-client-first) |  | English |
 | 2022-2-25 | PodRocket | [Fastify and Pino with Matteo Collina](pages/2022/podrocket.md) |  | [Recording](https://podrocket.logrocket.com/fastify) |  | English |
 | 2022-2-1 | GraphQL Berlin Meetup | [GraphQL Caching Demystified](pages/2022/graphql-berlin-meetup.md) |  | [Recording](https://youtu.be/srkTmlFNOyw) |  | English |
@@ -237,4 +239,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2022-05-11T12:37:31.540Z</i>
+<i>Updated on 2022-07-01T16:04:02.983Z</i>
