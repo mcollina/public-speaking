@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-116-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-2-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-76-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-27-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-117-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-2-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-77-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-27-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg?raw=true' alt='Matteo Collina public speaking profile' /></p>
@@ -7,7 +7,7 @@
 
 
  - [Year of 2025](#2025) - total events 5
- - [Year of 2024](#2024) - total events 3
+ - [Year of 2024](#2024) - total events 4
  - [Year of 2023](#2023) - total events 7
  - [Year of 2022](#2022) - total events 8
  - [Year of 2021](#2021) - total events 29
@@ -40,7 +40,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
 
 
 
@@ -50,6 +50,7 @@
 | 2024-6-24 | Frontend Nation 2024 | [Which Node.js HTTP client in 2024?](pages/2024/frontend-nation-http-client.md) |  | [Recording](https://www.youtube.com/watch?v=fePTmnQHQZ4) |  | English |
 | 2024-5-1 | JSDay 2024 | [The State of Node.js 2024](pages/2024/jsday-2024.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2024-4-17 | Node Congress 2024 | [Deep Dive into Undici](pages/2024/node-congress-deep-dive-undici.md) |  | [Recording](https://www.youtube.com/watch?v=cIyiDDts0lo) | [🇩🇪](## "Germany") | English |
+| 2024-4-5 | CityJS London 2024 | [The Alleged 'End' of Node.js is Much Ado About Nothing](pages/2024/cityjs-london.md) |  |  | [🇬🇧](## "United Kingdom") | English |
 
 
 # 2023
@@ -295,4 +296,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2026-02-14T10:40:36.876Z</i>
+<i>Updated on 2026-02-14T10:41:23.888Z</i>
