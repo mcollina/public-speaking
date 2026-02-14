@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-99-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-2-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-59-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-27-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-118-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-2-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-27-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Matteo Collina  - Public Speaking</h1>
 <p align='center'><a href='https://nodejs.org' target='_blank'>Node.js</a> TSC member, PhD, Chief Software Architect <a href='https://nearform.com/' target='_blank'>NearForm</a>, Lead maintainer <a href='https://fastify.io target='_blank'>Fastify</a></p></p><p align='center'><a href='matteo_collina'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/matteocollina?style=social'></a> <a href='https://www.linkedin.com/in/matteocollina'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/mcollina/public-speaking/blob/main/static/matteo-collina-header-image.jpg?raw=true' alt='Matteo Collina public speaking profile' /></p>
@@ -6,7 +6,10 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 6
+ - [Year of 2025](#2025) - total events 6
+ - [Year of 2024](#2024) - total events 4
+ - [Year of 2023](#2023) - total events 7
+ - [Year of 2022](#2022) - total events 8
  - [Year of 2021](#2021) - total events 29
  - [Year of 2020](#2020) - total events 23
  - [Year of 2019](#2019) - total events 10
@@ -17,16 +20,71 @@
  - [Year of 2014](#2014) - total events 5
  - [Year of 2013](#2013) - total events 2
 
-# 2022
+# 2025
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)    
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-11-1 | JSConf 2025 | [Next-Gen Flame Graphs: Making Node.js Performance Profiling Actually Work](pages/2025/jsconf-us.md) |  | [Recording](https://www.youtube.com/watch?v=2VkUF8jzouQ) | [🇺🇸](## "United States") | English |
+| 2025-10-14 | JSDay 2025 | [The State of Node.js 2025](pages/2025/jsday-state-of-nodejs-2025.md) |  | [Recording](https://www.youtube.com/watch?v=h3qKJabs7d4) | [🇮🇹](## "Italy") | English |
+| 2025-9-3 | Code Europe 2025 | [Node.js: More Threads Than You Think](pages/2025/code-europe.md) |  | [Recording](https://www.youtube.com/watch?v=r5PIqYyRiAg) | [🇵🇱](## "Poland") | English |
+| 2025-6-12 | JSNation 2025 | [The State of Node.js 2025](pages/2025/jsnation-amsterdam.md) |  | [Recording](https://www.youtube.com/watch?v=IgSwJaheiGk) | [🇳🇱](## "Netherlands") | English |
+| 2025-4-3 | dotJS 2025 | [Node.js will use all the memory available, and that's OK!](pages/2025/dotjs-nodejs-memory.md) |  | [Recording](https://www.youtube.com/watch?v=_OnTUIYxGRs) | [🇫🇷](## "France") | English |
+| 2025-3-15 | Conference 2025 | [Why Node.js Needs an Application Server](pages/2025/why-nodejs-needs-application-server.md) |  |  |  | English |
+
+
+# 2024
+
+
+![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2024-6-24 | Frontend Nation 2024 | [Which Node.js HTTP client in 2024?](pages/2024/frontend-nation-http-client.md) |  | [Recording](https://www.youtube.com/watch?v=fePTmnQHQZ4) |  | English |
+| 2024-5-1 | JSDay 2024 | [The State of Node.js 2024](pages/2024/jsday-2024.md) |  |  | [🇮🇹](## "Italy") | English |
+| 2024-4-17 | Node Congress 2024 | [Deep Dive into Undici](pages/2024/node-congress-deep-dive-undici.md) |  | [Recording](https://www.youtube.com/watch?v=cIyiDDts0lo) | [🇩🇪](## "Germany") | English |
+| 2024-4-5 | CityJS London 2024 | [The Alleged 'End' of Node.js is Much Ado About Nothing](pages/2024/cityjs-london.md) |  |  | [🇬🇧](## "United Kingdom") | English |
+
+
+# 2023
+
+
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)    
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-12-2 | Node.js fwdays'23 | [NODE_ENV=production is a lie](pages/2023/fwdays-nodejs-node-env.md) |  | [Recording](https://www.youtube.com/watch?v=irRsEfCTTtg) |  | English |
+| 2023-10-17 | React + TypeScript fwdays'23 | [Generating types without climbing a tree](pages/2023/react-typescript-fwdays-generating-types.md) |  | [Recording](https://www.youtube.com/watch?v=3dSNut_iiVY) |  | English |
+| 2023-9-21 | TypeScript Congress 2023 | [Generating types without climbing a tree](pages/2023/typescript-congress-generating-types.md) |  | [Recording](https://www.youtube.com/watch?v=3BROtlRhDYE) |  | English |
+| 2023-6-2 | JSNation 2023 | [APIs are Evolving. Again](pages/2023/jsnation-apis-evolving.md) |  | [Recording](https://www.youtube.com/watch?v=P3yu0bQtLLI) | [🇳🇱](## "Netherlands") | English |
+| 2023-6-1 | JSNation 2023 | [I Would Never Use an ORM](pages/2023/jsnation-never-use-orm.md) |  | [Recording](https://www.youtube.com/watch?v=bEy2QMKrcWg) | [🇳🇱](## "Netherlands") | English |
+| 2023-5-31 | CityJS Athens 2023 | [Do not thrash the Node.js Event Loop](pages/2023/cityjs-athens.md) |  |  | [🇬🇷](## "Greece") | English |
+| 2023-4-14 | Node Congress 2023 | [Building a modular monolith with Fastify](pages/2023/node-congress-modular-monolith.md) |  | [Recording](https://www.youtube.com/watch?v=e1jkA-ee_aY) | [🇩🇪](## "Germany") | English |
+
+
+# 2022
+
+
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-10-1 | NodeConf EU 2022 | [I would never use an ORM](pages/2022/nodeconf-eu-never-use-orm.md) |  | [Recording](https://www.youtube.com/watch?v=atABji4xqiI) | [🇮🇪](## "Ireland") | English |
+| 2022-6-7 | OpenJS World 2022 | [Keynote - Everybody is Responsible for Performance](pages/2022/openjs-world-keynote.md) |  | [Recording](https://www.youtube.com/watch?v=A99zkgoFd18) | [🇺🇸](## "United States") | English |
 | 2022-6-6 | OpenJS World 2022 | [A Fastify tale of Shapes](pages/2022/openjs-world-fastify.md) |  | [Recording](https://www.youtube.com/watch?v=g-6Ig8k6Nzc&list=PLyspMSh4XhLMSpb4yqi0aPxSioNaP1Wkn) | [🇺🇸](## "United States") | English |
 | 2022-6-6 | OpenJS World 2022 | [Everybody is Responsible for Performance](pages/2022/openjs-world-performance.md) |  | [Recording](https://www.youtube.com/watch?v=A99zkgoFd18) | [🇺🇸](## "United States") | English |
 | 2022-2-25 | Design Talk | [Always put the client first](pages/2022/design-talk.md) |  | [Recording](https://shows.acast.com/design-talk/episodes/always-put-the-client-first) |  | English |
@@ -239,4 +297,4 @@
 
 _A few talks have been omitted or have gone into oblivion._
 
-<i>Updated on 2022-07-01T16:04:02.983Z</i>
+<i>Updated on 2026-02-14T10:42:30.039Z</i>
